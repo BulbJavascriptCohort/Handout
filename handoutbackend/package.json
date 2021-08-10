@@ -1,0 +1,19 @@
+{
+  "name": "handoutbackend",
+  "version": "1.0.0",
+  "description": "manage files and resources for any class ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "files",
+    "school",
+    "edtech"
+  ],
+  "author": "Ebenezer",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
