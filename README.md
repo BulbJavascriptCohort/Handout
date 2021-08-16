@@ -38,4 +38,4 @@ The author's goal is to publish this a web application localized to various univ
 
 ### Author
 
-[Ebenezer Ogungbe]("https://github.com/eb-kneezer")
+[Ebenezer Ogungbe](https://github.com/eb-kneezer)
